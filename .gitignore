@@ -1,0 +1,8 @@
+[Bb]in/
+[Oo]bj/
+*.suo
+*.user
+*.csproj.user
+*.userprefs
+*.bat
+_ReSharper*/
